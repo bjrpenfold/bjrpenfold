@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bjrpenfold
 - 👀 I’m interested in DevOps/Cloud
-- 🌱 I’m currently learning Pythin
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me www.bjrpenfold.com
 
